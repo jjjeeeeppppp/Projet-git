@@ -1,3 +1,8 @@
 Bonjour Git 
 Salut
 
+
+git touch ? créer un ficher
+git nano ? ouvrir un ficher
+git status
+
