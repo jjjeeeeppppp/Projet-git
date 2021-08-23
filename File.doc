@@ -7,4 +7,4 @@ git nano ? ouvrir un ficher
 git status ? savoir qu-elle fichier est indexé et lesquls sont prêts à etre commit
 git commit -am « premier commit du fichier blabla.xxx » ? prêt pour le commit valider en vert 
 git log ? historique de ce qu'on a fait 
-
+git branch nomDeLaBranche 
